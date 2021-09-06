@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="title_add_task">Criar Tarefa</string>
+    <string name="hint_title">Título</string>
+    <string name="hint_description">Descrição</string>
+    <string name="hint_date">Data</string>
+    <string name="hint_time">Horário</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="fab_description">fab</string>
+    <string name="label_tasks">Tarefas</string>
+    <string name="menu_edit">Editar</string>
+    <string name="menu_delete">Deletar</string>
+    <string name="edit_task_label">Editar tarefa</string>
+    <string name="label_empty_list">Ops! Você não possui\n nenhuma tarefa</string>
+</resources>
